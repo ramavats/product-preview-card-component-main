@@ -23,6 +23,7 @@ body {
   object-fit: cover;
   border-top-left-radius: 1rem;
   border-bottom-left-radius: 1rem;
+  display: block;
 }
 
 .product-details {
